@@ -221,6 +221,11 @@ li a {
     text-decoration: none;
     color:#e91e63;
 }
+
+#text-lib {
+    text-align: center;
+}
+
 @media screen and (min-width: 768px) {
     .body {
         max-width: 1024px;
@@ -320,6 +325,7 @@ li a {
         margin-top: 10px;
     }
   }
+
   
 @media screen and (min-width: 1024px) {
     #logo {

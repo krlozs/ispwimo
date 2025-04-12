@@ -155,7 +155,7 @@ input[type="email"],
 textarea {
     width: calc(100% - 16px);
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #e91e63;
     border-radius: 4px;
     box-sizing: border-box;
     font-size: 16px;
@@ -168,7 +168,7 @@ textarea {
 }
 
 button[type="submit"] {
-    background-color: #007bff;
+    background-color: #e91e63;
     color: #fff;
     padding: 12px 20px;
     border: none;
@@ -181,7 +181,7 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-    background-color: #0056b3;
+    background-color: #c40242;
 }
 
 .plan-container {
@@ -583,6 +583,10 @@ li a {
   
     .footer-logo .social-icons {
         margin-top: 10px;
+    }
+
+    #text-lib {
+        text-align: center;
     }
   }
   
